@@ -67,8 +67,8 @@ class _MyHomePageState extends State<MyHomePage> {
             ClipRRect(
               borderRadius: BorderRadius.circular(100),
               child: SizedBox(
-                width: 200,
-                height: 200,
+                width: 150,
+                height: 150,
                 child: Image.asset(
                   'images/Dazbee.jpg',
                   fit: BoxFit.fill,
